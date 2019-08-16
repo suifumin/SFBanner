@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  无线轮播图
+//  SFBanner
 //
 //  Created by FDC-Fabric on 2019/8/15.
 //  Copyright © 2019年 FDC-Fabric. All rights reserved.
